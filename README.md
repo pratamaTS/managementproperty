@@ -1,0 +1,2 @@
+# managementproperty
+Management Property
